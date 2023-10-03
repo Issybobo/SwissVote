@@ -1,6 +1,7 @@
 # SwissVote Smart Contract
 
 **Deployed Contract Adress =0x34d68974695694acA2C0EeaD25E7a18Ca82676A9** 
+
 SwissVote is an Ethereum smart contract designed for secure and transparent voting. It provides the following features:
 
 - **Voter Registration:** The contract owner can register voters by adding their Ethereum addresses.
