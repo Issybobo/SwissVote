@@ -22,5 +22,3 @@ SwissVote is an Ethereum smart contract designed for secure and transparent voti
 
 5. **Vote Count:** Retrieve the total number of votes cast by calling the `getVoteCount` function.
 
-
-**Note:** For real-world voting scenarios, consider additional security measures and privacy safeguards to ensure the integrity and confidentiality of the voting process.
